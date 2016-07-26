@@ -1,4 +1,4 @@
-AVS Test Build
+Nitehawk Media Center v4.8
 Build name 2
 Build name 3
 Build name 4
